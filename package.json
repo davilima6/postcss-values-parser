@@ -31,9 +31,7 @@
   ],
   "dependencies": {
     "color-name": "^1.1.4",
-    "is-url-superb": "^3.0.0",
-    "postcss": "^7.0.5",
-    "url-regex": "^5.0.0"
+    "postcss": "^7.0.5"
   },
   "devDependencies": {
     "ava": "^3.5.1",
@@ -44,7 +42,6 @@
     "nyc": "^15.0.0",
     "perfy": "^1.1.5",
     "postcss-value-parser": "^4.0.0",
-    "postcss-values-parser": "^3.0.3",
     "pre-commit": "^1.2.2",
     "prettier": "^2.0.1",
     "strip-ansi": "^6.0.0",
